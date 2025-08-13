@@ -22,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://qr-code-component-eight-lovat.vercel.app/](https://qr-code-component-eight-lovat.vercel.app/)
 
 ## My process
 
@@ -33,6 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Google Fonts
 
 ### What I learned
 
